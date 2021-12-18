@@ -14,3 +14,4 @@ fs.readFile('./txt/input.txt', 'utf-8', (error, data)=>{
 })
 
 console.log('Read File : ');
+console.log('Read File : ');
