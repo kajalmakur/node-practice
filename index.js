@@ -13,6 +13,4 @@ fs.readFile('./txt/input.txt', 'utf-8', (error, data)=>{
     console.log(data);
 })
 
-txtIn = fs.readFileSync('./txt/input.txt', 'utf-8');
-console.log(txtIn);
 console.log('Read File : ');
